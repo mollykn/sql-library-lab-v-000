@@ -29,3 +29,6 @@ INSERT INTO authors (id, name)
 VALUES
 (1, 'JK Rowling'),
 (2, 'CS Lewis');
+
+INSERT INTO character_books (id, character_id, book_id),
+(1, )
