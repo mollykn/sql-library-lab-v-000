@@ -4,7 +4,7 @@ INSERT INTO books (id, title, year, series_id)
 VALUES
 (1, 'Goblet of Fire', 2006, 1),
 (2, 'Half Blood Prince', 2005, 1),
-(3, 'Chamber of Secrets', 1999, 1),
+(3, 'Prisoner of Azkaban', 1999, 1),
 (4, 'Prince Caspian', 1951, 2),
 (5, 'Lion Witch Wardrobe', 1950, 2),
 (6, 'The Last Battle',1956, 2);
@@ -31,4 +31,10 @@ VALUES
 (2, 'CS Lewis');
 
 INSERT INTO character_books (id, character_id, book_id),
-(1, )
+(1, 1, 1),
+(2, 1, 2),
+(3, 1, 3),
+(4, 2, 1),
+(5, 2, 2),
+(6, 2, 3),
+(7, 3, )
