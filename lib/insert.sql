@@ -30,7 +30,7 @@ VALUES
 (1, 'JK Rowling'),
 (2, 'CS Lewis');
 
-INSERT INTO character_books (id, character_id, book_id),
+INSERT INTO character_books (id, book_id, character_id)
 (1, 1, 1),
 (2, 1, 2),
 (3, 1, 3),
@@ -38,9 +38,9 @@ INSERT INTO character_books (id, character_id, book_id),
 (5, 2, 2),
 (6, 2, 3),
 (7, 3, 3),
-(8, 4, 1); 
+(8, 4, 1);
 
-INSERT INTO character_books (id, character_id, book_id),
+INSERT INTO character_books (id, character_id, book_id)
 (9, 5, 4),
 (10, 5, 5),
 (11, 5, 6),
