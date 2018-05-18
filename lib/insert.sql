@@ -11,6 +11,6 @@ VALUES
 
 INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES
 (1, 'Harry Potter', 'Lord voldemort killed my parents', 'human', 1, 1),
-((2, 'Hermoine', 'You idiot ron', 'human', 1, 1),
+(2, 'Hermoine', 'You idiot ron', 'human', 1, 1),
 (3, 'Buckbeak', 'Cawww caww', 'hippogriff', 1, 1),
 (4, "Eddard Stark", "Winter is coming", "human", 1, 1);
