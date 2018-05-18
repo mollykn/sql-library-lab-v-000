@@ -22,8 +22,14 @@ VALUES
 (5, 'Lion Witch Wardrobe', 1950, 2),
 (6, 'The Last Battle',1956, 2);
 
-INSERT INTO characters (id, name, motto, 
+INSERT INTO characters (id, name, motto,
   species, author_id, series_id),
-VALUES 
+VALUES
 (1, 'Harry Potter', 'Lord voldemort killed my parents', 'human', 1, 1),
-
+(2, 'Hermoine', 'You idiot Ron', 'human', 1, 1),
+(3, 'Buckbeak', 'Cawww caww', 'hippogriff', 1, 1),
+(4, 'Fleru Delacour', 'oui oui', 'half veela', 1, 1),
+(6, 'Lucy', 'what is this', 'human', 2, 2),
+(7, 'Aslan', 'I\'m here now do not worry', 'deity', 2, 2);
+(8, 'Caspian', 'ahoy', 'human', 2, 2),
+(9, 'Mr. tumnus', 'watch out', 'faun', 2, 2);
