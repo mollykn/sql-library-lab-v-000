@@ -30,6 +30,6 @@ VALUES
 (3, 'Buckbeak', 'Cawww caww', 'hippogriff', 1, 1),
 (4, 'Fleru Delacour', 'oui oui', 'half veela', 1, 1),
 (5, 'Lucy', 'what is this', 'human', 2, 2),
-(6, 'Aslan', 'I\'m here now do not worry', 'deity', 2, 2);
+(6, 'Aslan', 'I\'m here now do not worry', 'deity', 2, 2),
 (7, 'Caspian', 'ahoy', 'human', 2, 2),
 (8, 'Mr. tumnus', 'watch out', 'faun', 2, 2);
