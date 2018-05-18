@@ -21,3 +21,9 @@ VALUES
 (4, 'Prince Caspian', 1951, 2),
 (5, 'Lion Witch Wardrobe', 1950, 2),
 (6, 'The Last Battle',1956, 2);
+
+INSERT INTO characters (id, name, motto, 
+  species, author_id, series_id),
+VALUES 
+(1, 'Harry Potter', 'Lord voldemort killed my parents', 'human', 1, 1),
+
