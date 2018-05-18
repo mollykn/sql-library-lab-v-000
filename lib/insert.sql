@@ -19,4 +19,4 @@ INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES
 (5, 'Lucy', 'what is this', 'human', 2, 2),
 (6, 'Aslan', 'Im here now do not worry', 'deity', 2, 2),
 (7, 'Caspian', 'ahoy', 'human', 2, 2),
-(8, 'Mr. tumnus', 'watch out', 'faun', 2, 2);
+(8, 'Mr tumnus', 'watch out', 'faun', 2, 2);
