@@ -38,7 +38,9 @@ INSERT INTO character_books (id, character_id, book_id),
 (5, 2, 2),
 (6, 2, 3),
 (7, 3, 3),
-(8, 4, 1),
+(8, 4, 1); 
+
+INSERT INTO character_books (id, character_id, book_id),
 (9, 5, 4),
 (10, 5, 5),
 (11, 5, 6),
